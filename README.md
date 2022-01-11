@@ -1,1 +1,4 @@
 # Save-The-Attack
+## Description
+
+SecurityPlus.ai is an upcoming computer security software company. The existing products of the company provide total malware protection for systems but a new research team of the company is focusing on a different problem statement of predicting the possibility of a system getting infected by malware. You are a newly hired ML Engineer who has been assigned the task of working on this challenging big data problem. The dataset for the above has been collected by monitoring users’ systems who have availed the services of SecurityPlus.ai. Each row in the data corresponds to one machine and includes the machine information along with other threat information which includes Engine Version, Processor, OS version, Firewall etc.(to name a few). The data collected ensures total user privacy.
